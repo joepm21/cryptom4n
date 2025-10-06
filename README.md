@@ -38,7 +38,8 @@ Prerequisites
 
 # Install dependencies
     pip install cryptography
-
+# Optional force
+    pip install cryptography --break-system-packages
 # Run the application
     python cryptom4n.py
 
