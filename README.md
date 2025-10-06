@@ -66,6 +66,10 @@ Clear All
   * Clear password field
   * Reset status messages
 
+Demo Video
+
+
+
 🔧 Technical Details
 
 Encryption Algorithm
