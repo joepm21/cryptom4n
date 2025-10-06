@@ -70,6 +70,7 @@ Clear All
 
 Demo Video
 
+https://dai.ly/x9rr1cw 
 
 
 🔧 Technical Details
