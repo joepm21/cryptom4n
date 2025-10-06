@@ -32,16 +32,17 @@ Prerequisites
  - Python 3.6 or higher
  - Required packages: cryptography
 
-# Clone the repository
-    git clone https://github.com/joepm21/cryptom4n.git
-    cd cryptom4n
+# download the binary in release
+
+    https://github.com/joepm21/cryptom4n/releases/tag/cryptography
 
 # Install dependencies
     pip install cryptography
-# Optional force
+# Install dependencies force
     pip install cryptography --break-system-packages
 # Run the application
-    python cryptom4n.py
+    chmod +x cryptom4n
+    ./cryptom4n
 
 🎯 Usage
 
