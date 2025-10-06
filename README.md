@@ -160,9 +160,6 @@ Areas for Improvement
  - Enhanced UI themes
  - Command-line interface version
 
-📄 License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 👨‍💻 Author
 Created by j03 💀
 
