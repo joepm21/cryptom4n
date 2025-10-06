@@ -166,10 +166,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 👨‍💻 Author
 Created by j03 💀
 
- - Security enthusiast and Python developer
- - Focus on creating practical security tools
- - Believer in open-source security solutions
-
 ⭐ If you find this project useful, please give it a star on GitHub!
 
 🔐 Remember: With great encryption power comes great responsibility!
