@@ -1,3 +1,8 @@
+![Version](https://img.shields.io/badge/version-1.0%20%7C%202.0-brightgreen)
+![Python](https://img.shields.io/badge/python-3.x-blue)
+![Platform](https://img.shields.io/badge/platform-Kali%20Linux-black)
+![Uso](https://img.shields.io/badge/uso-autorizado-red)
+
 # 🔐 Cryptom4n
 
 **Cryptom4n** es una herramienta de escritorio desarrollada en Python para cifrar y descifrar archivos mediante contraseña. Su objetivo es proteger archivos sensibles usando algoritmos criptográficos robustos y una interfaz sencilla de utilizar.
